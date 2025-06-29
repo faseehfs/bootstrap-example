@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #296aaa !important;
+}
+
+.navbar * {
+    color: #ffffff !important;
+}
+
+.btn-primary {
+    background-color: #296aaa;
+}
+
+.btn-primary:hover {
+    background-color: #23598f;
+}
